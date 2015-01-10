@@ -1,7 +1,6 @@
 <?php namespace Valorin\DuplicateFinder\Commands;
 
-abstract class Command {
-
-	//
-
+abstract class Command
+{
+    //
 }
