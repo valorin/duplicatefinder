@@ -1,4 +1,4 @@
-<?php namespace App\Console\Commands;
+<?php namespace Valorin\DuplicateFinder\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Foundation\Inspiring;

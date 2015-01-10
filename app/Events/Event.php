@@ -1,4 +1,4 @@
-<?php namespace App\Events;
+<?php namespace Valorin\DuplicateFinder\Events;
 
 abstract class Event {
 

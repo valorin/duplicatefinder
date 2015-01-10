@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: Valorin\DuplicateFinder
+        psr4_prefix: Valorin\DuplicateFinder
         src_path: app

@@ -1,4 +1,4 @@
-<?php namespace App\Commands;
+<?php namespace Valorin\DuplicateFinder\Commands;
 
 abstract class Command {
 

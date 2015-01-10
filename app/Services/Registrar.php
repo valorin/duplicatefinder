@@ -1,6 +1,6 @@
-<?php namespace App\Services;
+<?php namespace Valorin\DuplicateFinder\Services;
 
-use App\User;
+use Valorin\DuplicateFinder\User;
 use Validator;
 use Illuminate\Contracts\Auth\Registrar as RegistrarContract;
 
